@@ -1,10 +1,10 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Sakib, a Bangladeshi programmer 👋🏼:
+# Hello World!, I'm Sakib, A Bangladeshi programmer 👋🏼:
 🛜 Currently Working On My Own Projects<br>
-👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>
-👨🏼‍💻 working as a web developer since 2022 <br>
-🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+👨🏼‍🎓 I’m currently studying at the <b>Department<b> of Software Engineering, Daffdoil International University<br>
+👨🏼‍💻 I’m currently learning UI/UX Design & Creative Design<br>
+🎬 
 
 
 # 💻 Tech Stack:
