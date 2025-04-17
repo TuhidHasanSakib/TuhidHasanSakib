@@ -1,4 +1,4 @@
-<img src="[banner_github.png](https://tenor.com/view/helloworld-programming-gif-10988733249605918265)" alt="GitHub Banner" width="100%" />
+<img src="https://tenor.com/view/helloworld-programming-gif-10988733249605918265" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Sakib, A Bangladeshi programmer 👋🏼:
 🛜  At the moment, I am working on my own projects.<br>
