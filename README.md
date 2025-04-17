@@ -1,4 +1,4 @@
-<img src="helloworld-programming.gif" alt="GitHub Banner" width="100%" />
+<img align="center" src="helloworld-programming.gif" alt="GitHub Banner" width="100px" />
 
 # Hello World!, I'm Sakib, A Bangladeshi programmer 👋🏼:
 🛜  At the moment, I am working on my own projects.<br>
