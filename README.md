@@ -1,6 +1,10 @@
 
 <p align="center">
-<img src="helloworld-programming.gif" width="25%" />
+<img media="(prefers-color-scheme: dark)" src="output-white-text.gif" width="25%" />
+</p>
+
+<p align="center">
+<img media="(prefers-color-scheme: light)" src="helloworld-programming.gif" width="25%" />
 </p>
 
 # Hello World!, I'm Sakib, A Bangladeshi programmer 👋🏼:
